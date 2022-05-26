@@ -1,0 +1,40 @@
+.App {
+    background-color: #fff;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+/* 박스
+.container{
+    background-color: #fff;
+    width: 80vw;
+    max-width: 350px;
+    margin: auto;
+    height: 90vh;
+    padding: 5vh 0px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+타이틀 */
+/* .container > h3 {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+} */
+
+/* 박스 안의 리스트 */
+/* .list-item {
+    padding: 16px;
+    margin: 8px 0.5rem 0px 0px;
+    justify-content: center;
+    font-weight: bold;
+} */
+
+/* 버튼  
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 1rem 0px;
+width: 100%; */
